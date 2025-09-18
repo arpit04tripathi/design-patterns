@@ -15,20 +15,20 @@ Structured in 4 Modules
 
 # Setup
 
+**install and use java version defined in .sdkmanrc**
 ```bash
-# install and use java version defined in .sdkmanrc
 sdk env
 sdk current
 ```
 
+**list projects**
 ```bash
-# list projects
 ./gradlew projects -q
 ```
 
-`buildSrc` has the plugins where we have defined common dependencies like lombok.
+`buildSrc` has the plugins where we have defined common dependencies like lombok.  
+we can also pass the variable as parameter
 ```bash
-# we can also pass the variable as parameter
 ./gradlew clean build -PlombokVersion=1.18.30
 ```
 

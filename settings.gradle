@@ -12,3 +12,6 @@ plugins {
 
 rootProject.name = 'design-patterns'
 include('app', 'list', 'utilities')
+include 'common'
+include('creational', 'behavioral', 'structural')
+
