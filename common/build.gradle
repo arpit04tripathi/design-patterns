@@ -1,0 +1,6 @@
+plugins {
+    id 'buildlogic.java-library-conventions'
+}
+
+group = 'com.a04t.dp'
+version = '0.0.1'
