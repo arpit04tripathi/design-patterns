@@ -33,15 +33,15 @@ sdk current
 ```
 
 # References
-- Website
-  - [Refactoring Guru](https://refactoring.guru/design-patterns) :arrow_upper_right:
-  - [geeksforgeeks](https://www.geeksforgeeks.org/system-design/software-design-patterns/) :arrow_upper_right:
-  - [howtodoinjava](https://howtodoinjava.com/design-patterns/) :arrow_upper_right:
-  - [DigitalOcean](https://www.digitalocean.com/community/tutorials/java-design-patterns-example-tutorial) :arrow_upper_right:
-  - [Baeldung](https://www.baeldung.com/design-patterns-series) :arrow_upper_right:
-  - [Baeldung - Spring Framework](https://www.baeldung.com/spring-framework-design-patterns) :arrow_upper_right:
-  - [oo design](https://www.oodesign.com) :arrow_upper_right:
-- Books
-  - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/) :arrow_upper_right:
-  - [Head First Design Patterns, 2nd Edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/) :arrow_upper_right:
+- Website :arrow_upper_right:
+  - [Refactoring Guru](https://refactoring.guru/design-patterns)
+  - [geeksforgeeks](https://www.geeksforgeeks.org/system-design/software-design-patterns/)
+  - [howtodoinjava](https://howtodoinjava.com/design-patterns/)
+  - [DigitalOcean](https://www.digitalocean.com/community/tutorials/java-design-patterns-example-tutorial)
+  - [Baeldung](https://www.baeldung.com/design-patterns-series)
+  - [Baeldung - Spring Framework](https://www.baeldung.com/spring-framework-design-patterns)
+  - [oo design](https://www.oodesign.com)
+- Books :arrow_upper_right:
+  - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
+  - [Head First Design Patterns, 2nd Edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
 
