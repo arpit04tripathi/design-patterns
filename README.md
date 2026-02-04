@@ -4,8 +4,8 @@ Learning Design Patterns
 Gradle based repository to practice design-patterns in `Java` language.
 
 Setup
-- Java `24` managed by [sdkman](https://sdkman.io/install/) using [sdkmanrc](.sdkmanrc)
-- Gradle `8.14.3` with [gradle wrapper](gradle/wrapper/gradle-wrapper.properties) - [Compatibility Matrix](https://docs.gradle.org/current/userguide/compatibility.html#java_runtime)
+- Java `25` managed by [sdkman](https://sdkman.io/install/) using [sdkmanrc](.sdkmanrc)
+- Gradle `9.3.1` with [gradle wrapper](gradle/wrapper/gradle-wrapper.properties) - [Compatibility Matrix](https://docs.gradle.org/current/userguide/compatibility.html#java_runtime)
 
 Structured in 4 Modules
 - `common` : common classes used by other 3 modules (currently empty)
