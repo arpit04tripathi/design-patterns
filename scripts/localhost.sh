@@ -33,12 +33,17 @@ case $1 in
   install)
     banner "update sdk and use java version in .sdkmanrc"
     sdk selfupdate
+    sdk env install
     sdk env
     sdk current
     ;;
   list)
     banner "list projects"
     ./gradlew projects -q
+    ;;
+  current)
+    banner "sdk current"
+    sdk current;
     ;;
   *)
     echo "  git - sync latest from main"
