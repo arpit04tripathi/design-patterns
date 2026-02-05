@@ -31,7 +31,7 @@ scripts/localhost.sh list;
 `buildSrc` has the plugins where we have defined common dependencies like lombok.
 ```bash
 # we can also pass the variable as parameter
-./gradlew clean build -PlombokVersion=1.18.30
+./gradlew clean build -PlombokVersion=1.18.42
 ```
 
 ```shell
