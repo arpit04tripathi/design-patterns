@@ -17,6 +17,8 @@ ext {
     lombokVersion = '1.18.42'
 }
 
+printf("lombokVersion = %s", lombokVersion)
+
 dependencies {
     constraints {
         // Define dependency versions as constraints
