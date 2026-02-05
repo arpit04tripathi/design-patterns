@@ -34,6 +34,12 @@ scripts/localhost.sh list;
 ./gradlew clean build -PlombokVersion=1.18.30
 ```
 
+```shell
+./gradlew :behavioral:run
+./gradlew :creational:run
+./gradlew :structural:run
+```
+
 # References
 - [setup](docs/setup.md)
 - Website :arrow_upper_right:

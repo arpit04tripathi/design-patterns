@@ -1,4 +1,4 @@
-package com.a04t.structural;
+package com.a04t.dp.structural;
 
 import static com.a04t.dp.common.constants.CommonConstants.DIVIDER;
 
