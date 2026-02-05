@@ -2,9 +2,7 @@
 Learning Design Patterns
 
 Gradle based repository to practice design-patterns in `Java` language.
-
-Setup
-- Java `25` managed by [sdkman](https://sdkman.io/install/) using [sdkmanrc](.sdkmanrc)
+- Java `25.0.1` managed by [sdkman](https://sdkman.io/install/) using [sdkmanrc](.sdkmanrc)
 - Gradle `9.3.1` with [gradle wrapper](gradle/wrapper/gradle-wrapper.properties) - [Compatibility Matrix](https://docs.gradle.org/current/userguide/compatibility.html#java_runtime)
 
 Structured in 4 Modules
@@ -12,6 +10,12 @@ Structured in 4 Modules
 - `creational` : Creational Design Patterns
 - `behavioral` : Behavioral Design Patterns
 - `structural` : Structural Design Patterns
+
+<!-- TOC -->
+* [design-patterns](#design-patterns)
+* [Setup](#setup)
+* [References](#references)
+<!-- TOC -->
 
 # Setup
 
@@ -31,6 +35,7 @@ scripts/localhost.sh list;
 ```
 
 # References
+- [setup](docs/setup.md)
 - Website :arrow_upper_right:
     - [Refactoring Guru](https://refactoring.guru/design-patterns)
     - [geeksforgeeks](https://www.geeksforgeeks.org/system-design/software-design-patterns/)
