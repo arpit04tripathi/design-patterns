@@ -12,6 +12,11 @@ repositories {
     mavenCentral()
 }
 
+ext {
+    //dependencies
+    lombokVersion = '1.18.42'
+}
+
 dependencies {
     constraints {
         // Define dependency versions as constraints
@@ -24,10 +29,10 @@ dependencies {
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
     // lombok
-    compileOnly 'org.projectlombok:lombok:1.18.34'
-    annotationProcessor 'org.projectlombok:lombok:1.18.34'
-    testCompileOnly 'org.projectlombok:lombok:1.18.34'
-    testAnnotationProcessor 'org.projectlombok:lombok:1.18.34'
+    compileOnly "org.projectlombok:lombok:$lombokVersion"
+    annotationProcessor "org.projectlombok:lombok:$lombokVersion"
+    testCompileOnly "org.projectlombok:lombok:$lombokVersion"
+    testAnnotationProcessor "org.projectlombok:lombok:$lombokVersion"
 }
 
 // Apply a specific Java toolchain to ease working on different environments.
